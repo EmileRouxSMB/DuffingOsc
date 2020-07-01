@@ -1,4 +1,6 @@
 # DuffingOsc
+A python implementation of the duffing oscilator.
 
 
-![Img](./Duf.pdf?raw=true "Title")
+The two existing orbits can be observed :
+![Img](./Duf.JPG?raw=true "Title")
